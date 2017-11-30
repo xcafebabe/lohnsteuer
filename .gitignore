@@ -1,3 +1,6 @@
+# skip generated files
+lohnsteuer/lohnsteuer*.js
+
 # Logs
 logs
 *.log
