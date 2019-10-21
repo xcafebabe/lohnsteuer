@@ -14,4 +14,5 @@ node helper/convert.js helper/Lohnsteuer2015BisNovember.xml >lohnsteuer/lohnsteu
 node helper/convert.js helper/Lohnsteuer2015Dezember.xml >lohnsteuer/lohnsteuer2015Dez.js && \
 node helper/convert.js helper/Lohnsteuer2016.xml >lohnsteuer/lohnsteuer2016.js && \
 node helper/convert.js helper/Lohnsteuer2017.xml >lohnsteuer/lohnsteuer2017.js && \
-node helper/convert.js helper/Lohnsteuer2018.xml >lohnsteuer/lohnsteuer2018.js
+node helper/convert.js helper/Lohnsteuer2018.xml >lohnsteuer/lohnsteuer2018.js && \
+node helper/convert.js helper/Lohnsteuer2019.xml >lohnsteuer/lohnsteuer2019.js
