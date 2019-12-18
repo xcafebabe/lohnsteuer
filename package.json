@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "description": "calculates german wage tax (Lohnsteuer)",
   "main": "index.js",
-  "keywords": "german wage tax lohnsteuer pap",
+  "keywords": ["wage", "tax", "lohnsteuer", "pap"],
   "dependencies": {
     "big-decimal": "^1.0.2",
     "sax": "^1.1.3"
